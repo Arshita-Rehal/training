@@ -1,0 +1,10 @@
+div{
+    color:dark rgb(20, 125, 230);
+    background-color:rgb(244, 141, 158);
+    margin: 20px;
+    padding: 20px;
+    border: 10px solid coral;
+}
+div>h1{  color:dark purple;}
+p{background-color:rgb(241, 138, 138) ;color:rgb(8, 67, 119);}
+h2{color:dark purple ;}
