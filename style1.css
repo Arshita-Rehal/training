@@ -1,0 +1,47 @@
+body {
+   background-color: burlywood; 
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+header {
+  color:rgb(54, 159, 234);
+  padding: 20px;
+  text-align: center;
+}
+h1 {
+  color:black
+  margin: 0;
+}
+nav ul {
+  padding: 0;
+  list-style: none;
+}
+nav ul li {
+  display: inline;
+  margin:  10px;
+}
+h2{
+    color: black;
+}
+section {
+  margin :10 px
+  padding: 50px 20px;
+}
+#about {
+  background-color:rgb(236, 156, 52); color: rgb(56, 127, 220);
+
+}
+.project {
+  margin-bottom: 20px;
+  padding: 10px;
+  color:rgb(58, 58, 204);
+  background-color: rgb(236, 156, 52);
+}
+#contact{
+    margin-bottom: 20px;
+  padding: 10px;
+  color:rgb(58, 58, 204);
+  background-color: rgb(236, 156, 52);
+}
